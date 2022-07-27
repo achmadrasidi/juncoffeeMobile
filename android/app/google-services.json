@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147284094172",
+    "project_id": "juncoffee-b2b2f",
+    "storage_bucket": "juncoffee-b2b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147284094172:android:0c3f63d51c28bc97bfd819",
+        "android_client_info": {
+          "package_name": "com.juncoffeemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147284094172-ietqqou24dvdfj9mi8n0onj498bfjgcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAOEK6tBEfD_vr533U7J0wvh9aDRePFKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147284094172-ietqqou24dvdfj9mi8n0onj498bfjgcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

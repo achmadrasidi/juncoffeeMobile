@@ -1,0 +1,3 @@
+export const ADD_USER_INFO = "ADD_USER_INFO";
+export const UPDATE_USER_INFO = "UPDATE_USER_INFO";
+export const REMOVE_USER_INFO = "REMOVE_USER_INFO";
